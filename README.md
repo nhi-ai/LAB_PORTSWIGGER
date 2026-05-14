@@ -51,5 +51,7 @@ LAB_PORTSWIGGER/
 </p>
 
 ## ☕ Buy Me a Coffee ##
-<img width="592" height="1280" alt="image" src="https://github.com/user-attachments/assets/768fb866-39b4-4419-a56f-ef5ed47ae06a" />
+<p align="center">
+<img width="200" height="295" alt="image" src="https://github.com/user-attachments/assets/2d99eafd-ecf9-445d-ac63-16826e135696" />
+
 
