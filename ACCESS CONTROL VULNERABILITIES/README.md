@@ -26,7 +26,7 @@ Access control áp dụng các chính sách để đảm bảo người dùng kh
 | Thiếu kiểm soát hoàn toàn | trang admin không yêu cầu xác thực gì cả |
 | Dựa vào "security by obscurity" | URL admin khó đoán nhưng không có auth check |
 | Điều khiển bằng tham số client gửi lên | `roleid=2` trong request có thể chỉnh sửa |
-| IDOR (Insecure Direct Object Reference) | `account?id=101` — đổi id xem tài khoản người khác |
+| IDOR (Insecure Direct Object Reference) | `account?id=101` - đổi id xem tài khoản người khác |
 | Access control theo URL không nhất quán | check ở trang chính nhưng API backend không check |
 | Access control theo HTTP method | chỉ chặn `POST`, không chặn `GET`/`PUT` tới cùng endpoint |
 | Access control multi-step | chỉ kiểm tra ở bước 1, bỏ qua ở bước xác nhận cuối |
